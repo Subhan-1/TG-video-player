@@ -71,9 +71,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [InlineKeyboardButton("❓ Basic Guide", callback_data="cbhowtouse")],
                 [
-                    InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),
-                ],
-                [                    
+                    InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),                
                     InlineKeyboardButton(
                         "[► Official Channel ◄]", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
