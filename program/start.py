@@ -81,7 +81,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://github.com/subhan-1/TG-player"
+                        "🌐 Source Code", url="https://github.com/subhan-1/TG-video-player"
                     )
                 ],
             ]
