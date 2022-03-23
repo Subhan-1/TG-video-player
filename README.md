@@ -18,7 +18,7 @@
     <a href="https://github.com/Subhan-1/TG-video-player/network/members"> <img src="https://img.shields.io/github/stars/Subhan-1/TG-video-player?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
 
-Can be found on Telegram as [Jennie Bot ❤](https://t.me/JennieKim1_bot)</br>
+Can be found on Telegram as [Jennie Bot ❤](https://t.me/video_player_KDbot)</br>
 
 ### 🔎 Support Inline Search
 
