@@ -52,7 +52,7 @@ async def _human_time_duration(seconds):
     command(["start", f"start@{BOT_USERNAME}"]) & filters.private & ~filters.edited
 )
 async def start_(client: Client, message: Message):
-     await message.reply_photo("https://telegra.ph/file/d0a829e82b13c9d91c257.jpg")
+     await message.reply_photo("https://telegra.ph/Rishabh-Bhan-12-06")
      await message.reply_text(
         f"""✨ **Welcome {message.from_user.mention()} !**\n
 💭 [{BOT_NAME}](https://t.me/{BOT_USERNAME}) **Allows you to play music and video on groups through the new Telegram's video chats!**
@@ -71,9 +71,13 @@ async def start_(client: Client, message: Message):
                 ],
                 [InlineKeyboardButton("❓ Basic Guide", callback_data="cbhowtouse")],
                 [
-                    InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),                    
+                    InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),
+                    InlineKeyboardButton("❤️ Donate", url=f"https://t.me/{OWNER_NAME}"),
                 ],
                 [
+                    InlineKeyboardButton(
+                        "[► Official Group ◄]", url=f"https://t.me/{GROUP_SUPPORT}"
+                    ),
                     InlineKeyboardButton(
                         "[► Official Channel ◄]", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
@@ -83,7 +87,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source code", url="https://t.me/Subhan011/8"
+                        "🌐 Source Code", url="https://github.com/Rishabhbhan4/Video-Bot"
                     )
                 ],
             ]
