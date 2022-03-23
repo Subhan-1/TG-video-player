@@ -57,7 +57,7 @@ python3 main.py # run the bot.
 
 # Credits 💖
 
-- [subhan](https://github.com/Rishabhbhan4) ``Dev``
+- [subhan](https://github.com/subhan-1) ``Dev``
 
 ## Telegram Support & Updates 🏢
 - [![Deloper](https://img.shields.io/badge/Developer-brightgreen)](https://t.me/Subhan011)
