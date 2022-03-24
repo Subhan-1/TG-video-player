@@ -59,7 +59,7 @@ python3 main.py # run the bot.
 
 # continue the host with screen or anything else, thanks for reading.
 ```
-### [Heroku]
+### [Heroku](https://github.com/Subhan-1/TG-video-player/blob/main/Subhan.md)
 # Credits 💖
 
 - [subhan](https://github.com/subhan-1) ``Dev``
