@@ -3,6 +3,6 @@
 <p>
 <br>
 <a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
- The easy way to host this bot, deploy to Heroku. Click On The Image To Deploy
  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+The easy way to host this bot, deploy to Heroku. Click On The Image To Deploy
 </a>
