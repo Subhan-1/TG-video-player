@@ -7,3 +7,17 @@
 </a>
 
 The easy way to host this bot, deploy to Heroku. Click On The Image To Deploy
+
+
+## ## VPS Deployment 🎵
+<details><summary>Deploy To VPS</summary>
+<p>
+<pre>
+git clone https://github.com/EvamariaTG/evamaria
+# Install Packages
+pip3 install -U -r requirements.txt
+Edit info.py with variables as given below then run bot
+python3 bot.py
+</pre>
+</p>
+</details>
