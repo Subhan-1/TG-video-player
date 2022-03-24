@@ -33,16 +33,14 @@ async def cbstart(_, query: CallbackQuery):
                 [InlineKeyboardButton("❓ Basic Guide", callback_data="cbhowtouse")],
                 [
                     InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),
-                    InlineKeyboardButton(
-                        "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
-                    ),
+                    InlineKeyboardButton("⚙ UPDATES", url=f"https://t.me/{UPDATES_CHANNEL}"),
                 ],
-                [   
+                [
                     InlineKeyboardButton(text="[► Inline ◄]", switch_inline_query_current_chat=""),
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://github.com/subhan-1/TG-Video-player"
+                        "🌐 Source Code", url="https://github.com/subhan-1/TG-VIDEO-PLAYER"
                     )
                 ],
             ]
@@ -67,7 +65,7 @@ async def cbguides(_, query: CallbackQuery):
 
 💡 **If you have a follow-up questions about this bot, you can tell it on my support chat here: @{GROUP_SUPPORT}**
 
-⚡ __Powered by {BOT_NAME} A.I__""",
+⚡ __Powered by @kd_botz A.I__""",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙 Go Back", callback_data="cbstart")]]
         ),
@@ -81,7 +79,7 @@ async def cbcmds(_, query: CallbackQuery):
 
 » **press the button below to read the explanation and see the list of available commands !**
 
-⚡ __Powered by {BOT_NAME} A.I__""",
+⚡ __Powered by @kd_botz A.I__""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -115,7 +113,7 @@ async def cbbasic(_, query: CallbackQuery):
 » /uptime - show the bot uptime status
 » /alive - show the bot alive info (in group)
 
-⚡️ __Powered by {BOT_NAME} AI__""",
+⚡️ __Powered by @kd_botz AI__""",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙 Go Back", callback_data="cbcmds")]]
         ),
@@ -138,7 +136,7 @@ async def cbadmin(_, query: CallbackQuery):
 » /userbotjoin - invite the userbot to join group
 » /userbotleave - order userbot to leave from group
 
-⚡️ __Powered by {BOT_NAME} AI__""",
+⚡️ __Powered by @kd_botz AI__""",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙 Go Back", callback_data="cbcmds")]]
         ),
@@ -156,7 +154,7 @@ async def cbsudo(_, query: CallbackQuery):
 » /restart - restart your bot
 » /leaveall - order userbot to leave from all group
 
-⚡ __Powered by {BOT_NAME} AI__""",
+⚡ __Powered by @kd_botz AI__""",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙 Go Back", callback_data="cbcmds")]]
         ),
