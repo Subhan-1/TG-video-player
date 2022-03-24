@@ -31,3 +31,5 @@ python3 main.py # run the bot.
 </pre>
 </p>
 </details>
+
+## How
