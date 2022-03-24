@@ -1,5 +1,5 @@
 {
-    "name": "TG Video & Music Bot",
+    "name": "TG Video player",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
     "logo": "https://telegra.ph/file/d0a829e82b13c9d91c257.jpg",
     "keywords": [
@@ -9,8 +9,8 @@
         "pyrogram"
     ],
     "website": "https://t.me/lisaSupportchat",
-    "repository": "https://github.com/Rishabhbhan5/video-Bot",
-    "success_url": "https://t.me/Rishu_05",
+    "repository": "https://github.com/subhan/TG-video-player",
+    "success_url": "https://t.me/subhan0111",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
