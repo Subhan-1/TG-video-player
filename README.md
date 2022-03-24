@@ -35,11 +35,43 @@ Can be found on Telegram as [TG video player](https://t.me/video_player_KDbot)</
   <img src="https://telegra.ph/file/a9779821deeaa18b7bf10.jpg">
 </p>
 
+#### You can deploy this bot anywhere.
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/Subhan-1/TG-video-player">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
 
 
-###  Deployment [Click Here](https://github.com/Subhan-1/TG-video-player/blob/main/Subhan.md)
+<details><summary>Deploy To VPS</summary>
+<p>
+<pre>
+sudo apt update && apt upgrade -y
+sudo apt install git curl python3-pip ffmpeg -y
+pip3 install -U pip
+curl -sL https://deb.nodesource.com/setup_16.x | bash -
+sudo apt-get install -y nodejs
+npm i -g npm
+git clone https://github.com/subhan-1/TG-video-player # clone the repo.
+cd video-Bot
+pip3 install -U -r requirements.txt
+cp example.env .env # use vim to edit ENVs
+vim .env # fill up the ENVs (Steps: press i to enter in insert mode then edit the file. Press Esc to exit the editing mode then type :wq! and press Enter key to save the file).
+python3 main.py # run the bot.
 
-- [subhan](https://github.com/subhan-1) ``Dev``
+# continue the host with screen or anything else, thanks for reading.
+</pre>
+</p>
+</details>
+
+#### Telegram [@KD_botz](https://t.me/KD_Botz)
+#### Telegram [@Subhan0111](https://t.me/Subhan0111)
+
+- [subhan] (https://github.com/subhan-1) ``Dev``
 
 ## Telegram Support & Updates 🏢
 - [![Deloper](https://img.shields.io/badge/Developer-brightgreen)](https://t.me/Subhan011)
