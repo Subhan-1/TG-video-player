@@ -37,7 +37,7 @@ Can be found on Telegram as [TG video player](https://t.me/video_player_KDbot)</
 
 
 
-[![DFF](https://telegra.ph/file/da09def8e3c9df8ff7d86.jpg)](https://t.me/DFF_UPDATE)[![DFF](https://telegra.ph/file/c2b6926a7bff833a26d79.jpg)](https://t.me/Hollywood_0980)
+[![DFF](https://telegra.ph/file/c1eb224473919fda53cdb.jpg)](https://t.me/DFF_UPDATE)[![DFF](https://telegra.ph/file/c2b6926a7bff833a26d79.jpg)](https://t.me/Hollywood_0980)
 
 
 ## VPS Deployment 🎵
