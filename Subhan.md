@@ -14,8 +14,6 @@
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-
-```sh
 sudo apt update && apt upgrade -y
 sudo apt install git curl python3-pip ffmpeg -y
 pip3 install -U pip
@@ -30,6 +28,6 @@ vim .env # fill up the ENVs (Steps: press i to enter in insert mode then edit th
 python3 main.py # run the bot.
 
 # continue the host with screen or anything else, thanks for reading.
-```
-
-#How
+</pre>
+</p>
+</details>
