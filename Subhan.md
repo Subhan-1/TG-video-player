@@ -32,4 +32,5 @@ python3 main.py # run the bot.
 </p>
 </details>
 
-## How
+#### Telegram [@KD_botz](https://t.me/KD_Botz)
+#### Telegram [@Subhan011(https://t.me/Subhan0111]
