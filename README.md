@@ -69,9 +69,6 @@ python3 main.py # run the bot.
 </p>
 </details>
 
-#### Telegram [@KD_botz](https://t.me/KD_Botz)
-#### Telegram [@Subhan0111](https://t.me/Subhan0111)
-
 - [subhan](https://github.com/subhan-1) ``Dev``
 
 ## Telegram Support & Updates 🏢
