@@ -37,7 +37,7 @@ Can be found on Telegram as [TG video player](https://t.me/video_player_KDbot)</
 
 
 
-###  Deployment [Click Here](https://github.com/Subhan-1/TG-video-player/edit/main/Subhan.md)
+###  Deployment [Click Here](https://github.com/Subhan-1/TG-video-player/blob/main/Subhan.md)
 
 - [subhan](https://github.com/subhan-1) ``Dev``
 
