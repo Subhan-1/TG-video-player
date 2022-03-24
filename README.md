@@ -45,7 +45,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/Rishabhbhan4/video-Bot # clone the repo.
+git clone https://github.com/subhan-1/TG-video-player # clone the repo.
 cd video-Bot
 pip3 install -U -r requirements.txt
 cp example.env .env # use vim to edit ENVs
