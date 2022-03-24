@@ -35,7 +35,8 @@ Can be found on Telegram as [TG video player](https://t.me/video_player_KDbot)</
   <img src="https://telegra.ph/file/a9779821deeaa18b7bf10.jpg">
 </p>
 
-#### You can deploy this bot anywhere.
+## Deployment
+ You can deploy this bot anywhere.
 
 <details><summary>Deploy To Heroku</summary>
 <p>
