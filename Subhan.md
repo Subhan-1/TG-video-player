@@ -13,6 +13,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
+
 ```sh
 sudo apt update && apt upgrade -y
 sudo apt install git curl python3-pip ffmpeg -y
