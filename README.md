@@ -32,7 +32,7 @@ Can be found on Telegram as [TG video player](https://t.me/video_player_KDbot)</
 
 ## 🎭 Preview
 <p align="center">
-  <img src="https://telegra.ph/file/02a0c95b3473a10fc3d13.jpg">
+  <img src="https://telegra.ph/file/a9779821deeaa18b7bf10.jpg">
 </p>
 
 ## VPS Deployment 🎵
