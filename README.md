@@ -59,7 +59,7 @@ python3 main.py # run the bot.
 
 # continue the host with screen or anything else, thanks for reading.
 ```
-
+### [Heroku]
 # Credits 💖
 
 - [subhan](https://github.com/subhan-1) ``Dev``
