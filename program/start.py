@@ -71,13 +71,11 @@ async def start_(client: Client, message: Message):
                 ],
                 [InlineKeyboardButton("❓ Basic Guide", callback_data="cbhowtouse")],
                 [
-                    InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),                
-                    InlineKeyboardButton(
-                        "[► Official Channel ◄]", url=f"https://t.me/{UPDATES_CHANNEL}"
-                    ),
+                    InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),
+                    InlineKeyboardButton("⚙ UPDATES", url=f"https://t.me/{UPDATES_CHANNEL}"),
                 ],
-                [   
-                    InlineKeyboardButton(text="[► Inline ◄]", switch_inline_query_current_chat=""),
+                [
+                    InlineKeyboardButton(text="[► inline ◄]", switch_inline_query_current_chat=""),
                 ],
                 [
                     InlineKeyboardButton(
