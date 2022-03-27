@@ -72,5 +72,5 @@ python3 main.py # run the bot.
 - [subhan](https://github.com/subhan-1) ``Dev``
 
 ## Telegram Support & Updates 🏢
-- [![Deloper subhan](https://img.shields.io/badge/Developer-brightgreen)](https://t.me/Subhan011)
+- [![Developer subhan](https://img.shields.io/badge/Developer-Subhan-brightgreen)](https://t.me/Subhan011)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/kd_botz)
